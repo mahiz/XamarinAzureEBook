@@ -1,0 +1,2 @@
+c:\xamarin\CrossBrowser\CrossBrowser\CrossBrowser.UWP\CrossBrowser.UWP.csproj;x86
+c:\xamarin\CrossBrowser\CrossBrowser\CrossBrowser\CrossBrowser.csproj;neutral

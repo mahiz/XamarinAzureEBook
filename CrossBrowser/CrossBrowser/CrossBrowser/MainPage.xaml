@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CrossBrowser"
+             x:Class="CrossBrowser.MainPage">
+
+  <StackLayout Orientation="Vertical"
+               Padding="10">
+    <Label Text="Enter a Web address:"/>
+    <StackLayout Orientation="Horizontal" 
+                 HorizontalOptions="FillAndExpand">
+      <local:SelectableEntry x:Name="WebEntry" HorizontalOptions="FillAndExpand" />
+      <Button x:Name="GoButton" Clicked="GoButton_Clicked" Text="Go!"
+              HorizontalOptions="End"/>
+    </StackLayout>
+    <ActivityIndicator x:Name="Indicator" IsRunning="False" />
+    <WebView x:Name="WebBrowser" Navigating="WebBrowser_Navigating" 
+             Navigated="WebBrowser_Navigated"
+             VerticalOptions="FillAndExpand" 
+             HorizontalOptions="FillAndExpand"/>
+  </StackLayout>
+</ContentPage>

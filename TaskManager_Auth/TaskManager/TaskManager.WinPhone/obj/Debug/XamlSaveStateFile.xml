@@ -1,0 +1,19 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\xamarin\taskmanager_auth\taskmanager\taskmanager.winphone\obj\debug\intermediatexaml\taskmanager.winphone.exe" HashGuid="89a528ac-f02b-f8ef-f09e-30237b3a2617" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\microsoft.azure.mobile.analytics.0.6.0\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10\microsoft.azure.mobile.analytics.dll" HashGuid="9b1bb403-a86c-ed78-7c05-bbbe1580a096" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\microsoft.azure.mobile.crashes.0.6.0\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10\microsoft.azure.mobile.crashes.dll" HashGuid="c8678cfa-7292-06c6-ddd8-94a0a4cd6d1f" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\microsoft.azure.mobile.0.6.0\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10\microsoft.azure.mobile.dll" HashGuid="a0b9c66a-17bc-8e40-8369-8eaaff1cc5a2" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\microsoft.azure.mobile.client.3.1.0\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="d6a3dc69-a548-594a-6d32-f7c923aa64d9" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\microsoft.azure.mobile.client.3.1.0\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="693a2496-e5ff-28d0-d97e-ed800ecd2fed" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\taskmanager\taskmanager\bin\debug\taskmanager.dll" HashGuid="283a24f1-7fe0-a3a3-594a-befe336b750f" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="63c58f91-4202-fe55-ec2a-7e34dee9505b" />
+    <ReferenceAssembly PathName="c:\xamarin\taskmanager_auth\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

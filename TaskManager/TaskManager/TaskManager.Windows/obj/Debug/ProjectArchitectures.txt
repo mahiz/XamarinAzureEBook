@@ -1,0 +1,2 @@
+C:\Xamarin\TaskManager\TaskManager\TaskManager.Windows\TaskManager.Windows.csproj;neutral
+C:\Xamarin\TaskManager\TaskManager\TaskManager\TaskManager.csproj;neutral
